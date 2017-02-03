@@ -4,4 +4,10 @@ sudo npm install
 
 git remote -v
 git status
-git add
+git add *filename
+
+git commit -m "Message"
+
+git push -u origin master
+
+
