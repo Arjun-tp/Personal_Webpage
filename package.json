@@ -1,0 +1,25 @@
+{
+  "name": "Arjun",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "arjun",
+  "license": "ISC",
+
+
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "express": "~4.5.1",
+    "fs": "0.0.2",
+    "method-override": "~2.0.2",
+    "mongoose": "~3.8.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "rhtml": "~1.0.0",
+    "require": "~2.4.20",
+    "lodash": "~4.16.2"
+  }
+}
